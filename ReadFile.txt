@@ -1,1 +1,2 @@
 we would use '.gitIgnore' comman
+we are now try to use git -amend which will append this commit to previous commit
