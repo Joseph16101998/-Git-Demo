@@ -3,3 +3,5 @@ we are now try to use git -amend which will append this commit to previous commi
 Comments added
 ok
 now new commit on the way
+fine
+hello again
